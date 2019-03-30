@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t azure-test .
+docker build -t paasovaara/azure-test .
